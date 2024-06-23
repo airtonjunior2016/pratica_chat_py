@@ -1,8 +1,8 @@
 # **Prática 03 - Cliente-Servidor e P2P**
 
-**Curso Superior de Tecnologia em
+**Curso Superior de Tecnologia**
 
-ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (ADS)**
+**ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (ADS)**
 
 
 **CÓDIGO DA DISCIPLINA: ADS0029**
